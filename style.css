@@ -1,0 +1,65 @@
+body{
+  text-align: center;
+  margin: 0%;
+  padding: 0%;
+}
+.links{
+  margin: 0%;
+  padding: 0%;
+  font-size: 145%;
+  border: none;
+  cursor: pointer;
+}
+.produtocomprador{
+  margin: 5px;
+  padding: 1%;
+  width: 250px;
+  border-radius: 100px;
+  font-size: 145%;
+  border: none;
+  cursor: pointer;
+}
+
+.sub{
+  text-align: center;
+  justify-content: center;
+  color: blue;
+  font-size: 360%;
+  margin-top: 110px;
+}
+
+.focus{
+  text-align: center;
+  justify-content: center;
+  color: green;
+  padding-bottom: 50px;
+  font-size: 460%;
+}
+
+.inicio{
+  margin: 100px;
+  font-size: 150%;
+}
+.inicioa{
+  margin: 100px;
+  font-size: 220%;
+}
+
+.imgplantio{
+  width: 60%;
+}
+
+.txtplantio{
+  font-size: 130%;
+  margin: 100px;
+}
+.txtplantio2{
+  font-size: 200%;
+  margin: 100px;
+}
+.txtplantio3{
+  font-size: 200%;
+}
+.txtplantio4{
+  font-size: 150%;
+}
